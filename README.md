@@ -8,5 +8,4 @@
 # 💫About Me :
 * 💻  I'm a Computer Science undergrad with experience building JAVA, C++, and C# systems. 
 * 🔭 I’m currently working on learning .NodeJS. 
-* ✨ Fun facts: *I am from Managua, Nicaragua. 
-*               *I can communicate in English and Spanish fluently. 
+* ✨ Fun facts: *I am from Managua, Nicaragua and I can communicate in English and Spanish fluently. 
