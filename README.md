@@ -2,7 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MichaelZelaya-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-zelaya-470748196)](https://www.linkedin.com/in/michael-zelaya-470748196)
 
 
-<a href="https://github.com/Oozaru71/Oozaru71/blob/main/Resume.pdf"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
+<a href="https://github.com/Oozaru71/Oozaru71/blob/main/
+Michael_Zelaya_Resume v4.pdf "><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
 
 
 # 💫About Me :
